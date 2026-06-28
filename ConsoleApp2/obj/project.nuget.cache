@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "52hcknbGQZI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tornado\\RiderProjects\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tornado\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tornado\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tornado\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tornado\\.nuget\\packages\\telegram.bot\\22.10.0.2-dev.1\\telegram.bot.22.10.0.2-dev.1.nupkg.sha512"
+  ],
+  "logs": []
+}

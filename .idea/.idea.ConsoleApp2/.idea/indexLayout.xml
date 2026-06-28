@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UserContentModel">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>.idea</Path>
+      <Path>ConsoleApp2.csproj</Path>
+      <Path>Program.cs</Path>
+      <Path>obj</Path>
+    </explicitIncludes>
+    <explicitExcludes />
+  </component>
+</project>
