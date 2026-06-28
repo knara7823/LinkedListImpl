@@ -22,6 +22,8 @@ namespace MyApp
             linkedList.AddFirst(4);
             linkedList.PrintNodes();
 
+            Console.WriteLine("Count of nodes: " + linkedList.Count());
+
         }
 
     }

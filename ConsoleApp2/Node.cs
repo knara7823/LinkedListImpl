@@ -78,6 +78,18 @@ public class LinkedList<T>
         }
       
     }
+
+    public int Count()
+    {
+        int count = 1;
+        Node<T> firstNode = this.head;
+        while (firstNode.next != null)
+        {
+            count++;
+            firstNode = firstNode.next;
+        }         
+        return count;
+    }
     
     
   
